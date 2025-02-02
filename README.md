@@ -15,10 +15,10 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Frontend Engineering Lead working for a Health Tech startup in India
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌐 Portfolio
-- 💻 I use daily: .js, .react, .materialui, .github
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br/>
+- 🌐 Portfolio -> https://www.crio.do/learn/portfolio/sujwalbn-a0/?edit=true <br/>
+- 💻 I use daily: .js, .react, .materialui, .github <br/>
+- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups <br/>
 - 👯 We can connect to play some games of uno ♟
 - 🧑‍💻 Tech I work on:
 
