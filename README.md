@@ -62,6 +62,15 @@
   </a>
 </div>
 
+<div>
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujwalnaik&show_icons=true&locale=en&layout=compact" alt="sujwal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujwalnaik&show_icons=true&locale=en" alt="sujwal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujwalnaik&" alt="sujwal" /></p>
+
+</div>
 ###
 
 <img src="https://raw.githubusercontent.com/sujwal/sujwal/output/snake.svg" alt="Snake animation" />
